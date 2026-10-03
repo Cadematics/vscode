@@ -9,6 +9,12 @@ import '../editor/editor.all.js';
 
 import './api/browser/extensionHost.contribution.js';
 import './browser/workbench.contribution.js';
+// import 'vs/workbench/contrib/promptChat/promptChat.contribution';
+// import '../workbench/contrib/promptChat/promptChat.contribution';
+import './contrib/promptChat/promptChat.contribution.js';
+// import '  ../workbench/contrib/promptChat/promptChat.contribution';
+// import '../workbench/contrib/promptChat/promptChat.contribution
+// import './../workbench/contrib/promptChat/promptChat.contribution';
 
 //#endregion
 
